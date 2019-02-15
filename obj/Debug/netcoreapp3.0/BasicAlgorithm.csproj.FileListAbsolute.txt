@@ -1,0 +1,12 @@
+D:\mazhongbin\Algorithm\BasicAlgorithm\bin\Debug\netcoreapp3.0\BasicAlgorithm.exe
+D:\mazhongbin\Algorithm\BasicAlgorithm\bin\Debug\netcoreapp3.0\BasicAlgorithm.deps.json
+D:\mazhongbin\Algorithm\BasicAlgorithm\bin\Debug\netcoreapp3.0\BasicAlgorithm.runtimeconfig.json
+D:\mazhongbin\Algorithm\BasicAlgorithm\bin\Debug\netcoreapp3.0\BasicAlgorithm.runtimeconfig.dev.json
+D:\mazhongbin\Algorithm\BasicAlgorithm\bin\Debug\netcoreapp3.0\BasicAlgorithm.dll
+D:\mazhongbin\Algorithm\BasicAlgorithm\bin\Debug\netcoreapp3.0\BasicAlgorithm.pdb
+D:\mazhongbin\Algorithm\BasicAlgorithm\obj\Debug\netcoreapp3.0\BasicAlgorithm.csprojAssemblyReference.cache
+D:\mazhongbin\Algorithm\BasicAlgorithm\obj\Debug\netcoreapp3.0\BasicAlgorithm.csproj.CoreCompileInputs.cache
+D:\mazhongbin\Algorithm\BasicAlgorithm\obj\Debug\netcoreapp3.0\BasicAlgorithm.AssemblyInfoInputs.cache
+D:\mazhongbin\Algorithm\BasicAlgorithm\obj\Debug\netcoreapp3.0\BasicAlgorithm.AssemblyInfo.cs
+D:\mazhongbin\Algorithm\BasicAlgorithm\obj\Debug\netcoreapp3.0\BasicAlgorithm.dll
+D:\mazhongbin\Algorithm\BasicAlgorithm\obj\Debug\netcoreapp3.0\BasicAlgorithm.pdb
